@@ -1,0 +1,70 @@
+body{
+    
+}
+.Main-Div{
+    margin: 200px;
+    font-size:60px
+    background-color: rgb(239, 247, 241);
+    width: 1300px;
+    height: 2750px;
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(227, 230, 233);
+}
+.Header{
+    margin: 10px;
+    width: auto;
+    height: 200px;
+    background-color:rgb(104, 107, 107);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Banner{
+    margin: 10px;
+    width: auto;
+    height: 500px;
+    background-color: #ADD9E6;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.circle{
+    margin: 30px;
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: #DAA521;
+    float: left;
+}
+.Main-Content{
+    margin: 20px;
+    width: 600px;
+    height: 590px;
+    background-color: #818181;
+    float: left;
+    color:whitesmoke;
+}
+.Article{
+    margin: 20px;
+    width: 620px;
+    height: 170px;
+    background-color: #D3691F;
+    float: left;
+    color:whitesmoke;
+}
+.S3{
+    margin: 20px;
+    width: 283px;
+    height: 500px;
+    background-color: #FF4500;
+    float: left;
+    color:whitesmoke;
+}
+.Footer{
+    float: left;
+    margin: 20px;
+    width: 1255px;
+    height: 200px;
+    background-color:#dda0dc;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
